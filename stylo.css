@@ -1,0 +1,25 @@
+body{
+    padding-left: 10px;
+    margin-left: 20px;
+    background-color:rgb(231, 235, 235)
+}
+
+
+
+section{
+    font-size: larger;
+    font-weight: bolder;
+    padding: 1px;
+    margin-left: auto;
+    
+}
+
+li{
+    font-size: larger;
+}
+
+a{
+    padding: 15px;
+    margin-top: 15px;
+    font-size: larger;
+}
